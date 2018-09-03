@@ -7,9 +7,9 @@ disminuyendo asi el numero de bots necesarios en un servidor.
 
 # Gamers Hub® - Características principales
 
-- Ordena a los usuarios en roles, dependiendo del juego que esta jugando. (Foto incluida mas abajo)
-- Mensajes de bienvenida por defecto de discord mejorados con imagenes aleatorias en formato gif
-- Cambia el icono del servidor cada 10 segundos dandole aspecto de gif, puedes añadir tantas imagenes como quieras.
+- Ordena a los usuarios en roles, dependiendo del juego que esta jugando, pusimos todos los juegos actuales verificados por discord (Foto incluida mas abajo).
+- Mensajes de bienvenida por defecto de discord mejorados con imagenes aleatorias en formato gif.
+- Cambia el icono del servidor cada 10 segundos dandole aspecto de gif, puedes añadir tantas imagenes como quieras. 
 - Muchos comandos personalizados para ver los stats y linkear tu cuenta de varios juegos. (actualmente solo Fortnite.)
 - Cientos de comandos ramdom, para la diversion y entretenimiento del usuario. (8ball, poker, rolldice, ect..)
 
