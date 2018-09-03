@@ -1,6 +1,6 @@
 # Gamers Hub® Bot oficial
 
-Bot de discord en Español, creado para administrar grandes comunidades de jugadores de una forma diferente.
+Bot de discord en español, creado para administrar grandes comunidades de jugadores de una forma diferente.
 
 # Gamers Hub® - Características
 
