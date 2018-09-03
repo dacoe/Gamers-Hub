@@ -12,6 +12,8 @@ Bot de discord en Español, creado para administrar grandes comunidades de jugad
 Añadiremos cientos de caracteristicas nuevas a lo largo del tiempo
 si quieres hacernos alguna pregunta o mirar como funciona nuestro bot, puedes encontrarnos en el servidor de pruebas:
 
+Servidor: https://discord.gg/GxAWBcD 
+
 ![alt text](https://img.shields.io/discord/333226505469689861.svg?style=for-the-badge)
 
 # Gamers Hub® - Capturas de pantalla.
