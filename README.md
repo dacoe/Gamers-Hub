@@ -10,15 +10,19 @@ disminuyendo asi el numero de bots necesarios en un servidor.
 - Ordena a los usuarios en roles, dependiendo del juego que esta jugando. (Foto incluida mas abajo)
 - Mensajes de bienvenida por defecto de discord mejorados con imagenes aleatorias en formato gif
 - Cambia el icono del servidor cada 10 segundos dandole aspecto de gif, puedes añadir tantas imagenes como quieras.
-- Muchos comandos personalizados para ver los stats y linkear tu cuenta de varios juegos. (Fortnite, PUBG, Overwatch, ect...)
+- Muchos comandos personalizados para ver los stats y linkear tu cuenta de varios juegos. (actualmente solo Fortnite.)
+- Cientos de comandos ramdom, para la diversion y entretenimiento del usuario. (8ball, poker, rolldice, ect..)
 
 # Gamers Hub® - Trabajando en ello
 
 Estas son las funciones en las que trabajo actualmente:
 
-- Comandos de musica: play, stop, skip (Rythm mejorado).
+- Comandos de musica: play, stop, skip, crear playlists y mucho mas  (Rythm mejorado).
 - Comandos de twitch: vincular, desvincular, estadisticas y publicacion automatica.
 - Comandos de youtube: vincular, desvincular, ver ultimo video, estadisticas y publicacion automatica.
+- Comandos de administracion: reportar, banear, expulsar, limpiar canal, advertencias, ect...
+- Anti-spam efectivo: Bloquea ciertos dominios, Borra invitaciones a otros servidores y mucho mas.
+- Comandos NSFW: Imagenes xxx ramdom (Gifs y Png) por categorias. (Miles de imagenes), kamasutra, ect...
 
 # Gamers Hub® - Informacion y contacto
 
