@@ -3,9 +3,7 @@
 Bot de discord en español
 Creado para ayudar a administrar grandes comunidades de jugadores de una forma diferente.
 
-# Gamers Hub® - Idea principal
-
-En un futuro tendremos todas todas las caracteristicas de los bots de hoy en dia,
+-En un futuro tendremos todas todas las caracteristicas de los bots de hoy en dia,
 disminuyendo asi el numero de bots necesarios en un servidor.
 
 # Gamers Hub® - Características principales
