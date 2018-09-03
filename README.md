@@ -13,9 +13,9 @@ disminuyendo asi el numero de bots necesarios en un servidor.
 - Muchos comandos personalizados para ver los stats y linkear tu cuenta de varios juegos. (actualmente solo Fortnite.)
 - Cientos de comandos ramdom, para la diversion y entretenimiento del usuario. (8ball, poker, rolldice, ect..)
 
-# Gamers Hub® - Trabajando en ello
+# Gamers Hub® - Proximas actualizaciones
 
-Estas son las funciones en las que trabajo actualmente:
+Actualmente estoy trabajando en lo siguiente:
 
 - Comandos de musica: play, stop, skip, crear playlists y mucho mas  (Rythm mejorado).
 - Comandos de twitch: vincular, desvincular, estadisticas y publicacion automatica.
