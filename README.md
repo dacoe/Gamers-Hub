@@ -5,6 +5,8 @@ Creado para ayudar a administrar grandes comunidades de jugadores de una forma d
 En un futuro tendremos todas todas las caracteristicas de los bots de hoy en dia,
 disminuyendo asi el numero de bots necesarios en un servidor.
 
+El codigo fuente se publicara cuando este medio terminado.
+
 # Gamers Hub® - Características principales
 
 - Ordena a los usuarios en roles, dependiendo del juego que esta jugando, pusimos todos los juegos actuales verificados por discord (Foto incluida mas abajo).
