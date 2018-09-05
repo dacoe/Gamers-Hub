@@ -26,6 +26,9 @@ Actualmente estoy trabajando en lo siguiente:
 - Anti-spam efectivo: Bloquea ciertos dominios, Borra invitaciones a otros servidores y mucho mas.
 - Comandos NSFW: Imagenes xxx ramdom (Gifs y Png) por categorias. (Miles de imagenes), kamasutra, ect...
 - Comandos de informacion: Para ver la lista de los comandos disponibles. (Lo dejaremos para el final)
+- Sistema de niveles: Sistema de niveles basado en diferentes estadisticas (Como Tatsumaki)
+- Sistema de economia: banco, transferencias, apuestas, y lo tipico de este sistema.
+
 
 # Gamers Hub® - Informacion y contacto
 
