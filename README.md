@@ -13,7 +13,7 @@ El codigo fuente se publicara cuando este medio terminado.
 - Mensajes de bienvenida por defecto de discord mejorados con imagenes aleatorias en formato gif.
 - Cambia el icono del servidor cada 10 segundos dandole aspecto de gif, puedes añadir hasta 8 imagenes.
 - Muchos comandos personalizados para linkear tu cuenta y ver los stats de varios juegos. (actualmente solo Fortnite.)
-- Cientos de comandos ramdom, para la diversion y entretenimiento del usuario. (8ball, poker, rolldice, ect..)
+- Cientos de comandos ramdom, para la diversion y entretenimiento del usuario. (8ball, poker, rolldice, horoscopos ect..)
 
 # Gamers Hub® - Proximas actualizaciones
 
