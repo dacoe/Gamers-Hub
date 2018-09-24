@@ -1,4 +1,4 @@
-# Gamers Hub® - El Bot Gamer Oficial
+# Gamers Hub®
 
 Creado para ayudar a administrar grandes comunidades de jugadores de una forma diferente.
 
