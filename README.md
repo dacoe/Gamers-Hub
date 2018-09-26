@@ -17,7 +17,7 @@ El codigo fuente se publicara cuando este medio terminado.
 - Puede editar imagenes, añadir filtros de instagram a las fotos de perfil de los usuarios. (con mas de 30 filtros) y mas.
 - Comandos NSFW: Imagenes ramdom (gifs y png) por categorias y tags. (miles de imagenes en la base de datos, mas de 100 categorias)
 - Comandos de musica: play, stop, skip, y mucho mas (Aun en fase de testeo, pero se escucha decentemente).
-- Comandos para descargar musica: Descarga la cancion y te envia el archivo por discord. (Solo las que pesan menos de 8mb)
+- Comandos para descargar musica: Te envia el archivo mp3 por discord. (Solo las que pesan menos de 8mb)
 
 # Gamers Hub® - Proximas actualizaciones
 
