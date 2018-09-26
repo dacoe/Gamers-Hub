@@ -13,22 +13,25 @@ El codigo fuente se publicara cuando este medio terminado.
 - Mensajes de bienvenida por defecto de discord mejorados con imagenes aleatorias en formato gif.
 - Cambia el icono del servidor cada 10 segundos dandole aspecto de gif, puedes añadir hasta 8 imagenes.
 - Comandos personalizados para linkear tu cuenta y ver los stats de varios juegos. (actualmente solo Fortnite.)
-- Cientos de comandos ramdom, para la diversion y entretenimiento del usuario. (8ball, poker, rolldice, horoscopos ect..)
+- Cientos de comandos ramdom, para la diversion y entretenimiento del usuario. (8ball, poker, rolldice, horoscopos, avatar, ect..)
 - Puede editar imagenes, añadir filtros de instagram a las fotos de perfil de los usuarios. (con mas de 30 filtros) y mas.
-- Comandos NSFW: Imagenes ramdom (gifs y png) por categorias y tags. (miles de imagenes en la base de datos)...
+- Comandos NSFW: Imagenes ramdom (gifs y png) por categorias y tags. (miles de imagenes en la base de datos, mas de 100 categorias)
+- Comandos de musica: play, stop, skip, y mucho mas (Aun en fase de testeo, pero se escucha decentemente).
+- Comandos para descargar musica: Descarga la cancion y te envia el archivo por discord. (Solo las que pesan menos de 8mb)
 
 # Gamers Hub® - Proximas actualizaciones
 
 Actualmente estoy trabajando en lo siguiente:
 
-- Comandos de musica: play, stop, skip, crear playlists y mucho mas  (Rythm mejorado).
+- Anti-spam: Bloquea ciertos dominios, Borra invitaciones a otros servidores y mucho mas.
 - Comandos de twitch: vincular, desvincular, estadisticas y publicacion automatica.
 - Comandos de youtube: vincular, desvincular, ver ultimo video, estadisticas y publicacion automatica.
-- Anti-spam: Bloquea ciertos dominios, Borra invitaciones a otros servidores y mucho mas.
 - Sistema de niveles: Sistema de niveles basado en diferentes estadisticas (Como Tatsumaki)
 - Sistema de economia: banco, transferencias, apuestas, y lo tipico de este sistema.
 - Comandos de administracion: reportar, banear, expulsar, limpiar canal, advertencias, ect...
-- Comandos de informacion: Para ver la lista de los comandos disponibles. (Lo dejaremos para el final)
+- Comandos para crear playlist personalizadas para el bot de musica.
+
+- Comandos de informacion: Para ver la lista de los comandos disponibles. (Lo dejaremos para el final ya que muchos estan sufriendo cambios constantemente.)
 
 # Gamers Hub® - Informacion y contacto
 
