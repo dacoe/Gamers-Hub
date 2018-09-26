@@ -32,7 +32,7 @@ Actualmente estoy trabajando en lo siguiente:
 
 # Gamers Hub® - Informacion y contacto
 
-Buscamos colaboradores para el proyecto (Con conocimiento de Canvas o Rethinkdb preferiblemente) para mejorar el aspecto visual y el rendimiento de las consultas, pero aceptamos cualquier ayuda.
+Buscamos colaboradores para el proyecto (Con conocimiento de Canvas o Rethinkdb preferiblemente) para mejorar el aspecto visual de las respuestas y el rendimiento de las consultas, pero aceptamos cualquier ayuda.
 
 Añadiremos cientos de caracteristicas nuevas a lo largo del tiempo
 si quieres hacernos alguna pregunta o comprobar como funciona nuestro bot, puedes encontrarnos en el servidor de pruebas:
