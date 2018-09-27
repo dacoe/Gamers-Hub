@@ -1,8 +1,8 @@
 # Gamers Hub®
 
-El codigo fuente se publicara cuando este "medio" terminado.
 
-si quieres hacernos alguna pregunta o comprobar como funciona nuestro bot, puedes encontrarnos en el servidor de pruebas:
+
+Si quieres hacernos alguna pregunta o comprobar como funciona nuestro bot, puedes encontrarnos en el servidor de pruebas:
 
 Servidor: https://discord.gg/GxAWBcD
 
