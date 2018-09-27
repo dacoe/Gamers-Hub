@@ -1,6 +1,6 @@
 # Gamers Hub®
 
-
+Poco a poco tendremos todas las caracteristicas de los bots de hoy actuales, disminuyendo el numero de bots necesarios.
 
 Si quieres hacernos alguna pregunta o comprobar como funciona nuestro bot, puedes encontrarnos en el servidor de pruebas:
 
