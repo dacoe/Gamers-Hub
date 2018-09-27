@@ -4,7 +4,8 @@ El codigo fuente se publicara cuando este "medio" terminado.
 
 si quieres hacernos alguna pregunta o comprobar como funciona nuestro bot, puedes encontrarnos en el servidor de pruebas:
 
-Servidor: https://discord.gg/GxAWBcD 
+Servidor: https://discord.gg/GxAWBcD
+
 ![alt text](https://img.shields.io/discord/333226505469689861.svg?style=for-the-badge)
 
 # Gamers Hub® - Características principales
