@@ -1,11 +1,11 @@
 # Gamers Hub®
 
-Creado para ayudar a administrar grandes comunidades de jugadores de una forma diferente.
+El codigo fuente se publicara cuando este "medio" terminado.
 
-En un futuro tendremos todas todas las caracteristicas de los bots de hoy en dia,
-disminuyendo asi el numero de bots necesarios en un servidor.
+si quieres hacernos alguna pregunta o comprobar como funciona nuestro bot, puedes encontrarnos en el servidor de pruebas:
 
-El codigo fuente se publicara cuando este medio terminado.
+Servidor: https://discord.gg/GxAWBcD 
+![alt text](https://img.shields.io/discord/333226505469689861.svg?style=for-the-badge)
 
 # Gamers Hub® - Características principales
 
@@ -33,16 +33,9 @@ Actualmente estoy trabajando en lo siguiente:
 
 - Comandos de informacion: Para ver la lista de los comandos disponibles. (Lo dejaremos para el final ya que muchos estan sufriendo cambios constantemente.)
 
-# Gamers Hub® - Informacion y contacto
+# Gamers Hub® - Contacto y colaboracion.
 
-Buscamos colaboradores para el proyecto (Con conocimiento de Canvas o Rethinkdb preferiblemente) para mejorar el aspecto visual de las respuestas y el rendimiento de las consultas, pero aceptamos cualquier ayuda.
-
-Añadiremos cientos de caracteristicas nuevas a lo largo del tiempo
-si quieres hacernos alguna pregunta o comprobar como funciona nuestro bot, puedes encontrarnos en el servidor de pruebas:
-
-Servidor: https://discord.gg/GxAWBcD 
-
-![alt text](https://img.shields.io/discord/333226505469689861.svg?style=for-the-badge)
+Buscamos colaboradores con conocimiento de Canvas o sobre Rethinkdb para mejorar el aspecto visual de las respuestas del bot o el rendimiento de las consultas de la base de datos.
 
 # Gamers Hub® - Algunas capturas de pantalla.
 
