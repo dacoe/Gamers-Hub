@@ -32,7 +32,7 @@ Actualmente estoy trabajando en lo siguiente:
 - Comandos de administracion: reportar, banear, expulsar, limpiar canal, advertencias, ect...
 - Comandos para crear playlist personalizadas para el bot de musica.
 
-- Comandos de informacion: Para ver la lista de los comandos disponibles. (Lo dejaremos para el final ya que muchos estan sufriendo cambios constantemente.)
+- Comandos de informacion: Para ver la lista de los comandos disponibles. (Lo dejaremos para el final ya que muchos estan sufriendo cambios constantemente y puede ser un poco incoherente.)
 
 # Gamers Hub® - Contacto y colaboracion.
 
